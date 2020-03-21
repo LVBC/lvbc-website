@@ -19,6 +19,10 @@ html {
   background-color: $accent-color;
 }
 
+img {
+  width: 100%;
+}
+
 body {
   text-align: center;
   background-color: $page-color;

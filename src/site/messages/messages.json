@@ -1,0 +1,5 @@
+{
+  "layout" : "layouts/message.md",
+  "tags" : "message",
+  "templateEngineOverride": "njk,md"
+}
