@@ -1,7 +1,7 @@
 ---
-title: Messages
+title: Messages Archive
 layout: layouts/base.njk
-subtitle: Listen to our archive of previous messages.
+subtitle: Click on a link from the list below to listen to a previous message.
 ---
 
 <ul class="listing">
