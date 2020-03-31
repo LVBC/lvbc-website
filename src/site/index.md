@@ -12,4 +12,6 @@ We are an independent, fundamental, Bible-believing church. Our desire is to be 
 
 We invite you to explore our website and discover more about us. We wish to extend a special invitation to you to visit us at the church.
 
+<p class="is-update">Added the <a href="./messages">God's Will series</a> of messages.</p>
+
 [Click here to listen to previous messages](./messages "messages archive")
