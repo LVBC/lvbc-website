@@ -206,16 +206,28 @@ footer {
   }
 }
 
-.is-update {
+.is-update, .is-important {
   font-weight: bolder;
 
   &::before {
-    content: "Update!";
     padding: 6px;
-    background: #99f0f5;
     border-radius: 4px;
     color: #042a3c;
     box-shadow: -2px 2px 0px 1px;
     margin: 10px 20px 10px 0;
+  }
+}
+
+.is-update {
+  &::before {
+    content: "Update";
+    background: #99f0f5;
+  }
+}
+
+.is-important {
+  &::before {
+    content: "Important!";
+    background: #fffb4e;
   }
 }
