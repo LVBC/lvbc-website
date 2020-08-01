@@ -1,0 +1,6 @@
+{
+    "layout" : "layouts/bulletins.md",
+    "tags" : "bulletins",
+    "templateEngineOverride": "njk,md"
+  }
+  
