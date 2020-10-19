@@ -1,6 +1,6 @@
 ---
 layout: layouts/base.njk
-pageClass: messages
+pageClass: sermons
 templateEngineOverride: njk, md
 ---
 

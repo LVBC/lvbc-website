@@ -9,7 +9,7 @@ layout: layouts/base.njk
 <p class="is-important">All evening services are now at 7:00 p.m.</p>
 <p class="is-update">Added the <a href="./bulletins">Bulletins</a> section where you can view the church bulletin online.</p>
 
-[Click here to listen to previous messages](./messages "messages archive")
+[Click here to listen to previous sermons.](./sermons "sermon archive")
 
 ##
 

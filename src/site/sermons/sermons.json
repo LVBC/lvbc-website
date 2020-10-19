@@ -1,0 +1,5 @@
+{
+  "layout" : "layouts/sermons.md",
+  "tags" : "sermons",
+  "templateEngineOverride": "njk,md"
+}
