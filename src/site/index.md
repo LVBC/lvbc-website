@@ -6,7 +6,11 @@ layout: layouts/base.njk
 
 ![alt text](/images/church-entrance.jpg "Locust Valley Bible Church")
 
-<p class="is-important">All evening services are now at 7:00 p.m.</p>
+<p class="is-important">
+    <a target="_blank" href="https://vbspro.events/p/events/a6451f">Register now for VBS!
+    <div><img style="width:35vw" src="/images/vbs-logo-2021.jpg" alt="VBS Logo" title="VBS Registration")></div>    
+    </a>
+</p>
 <p class="is-update">Added the <a href="./bulletins">Bulletins</a> section where you can view the church bulletin online.</p>
 
 [Click here to listen to previous sermons.](./sermons "sermon archive")
